@@ -1,4 +1,4 @@
-# 一键搭建X-ui面板教程(Trojan面板,Trojan panel面板三选一即可)
+# 一键搭建代理面板教程(X-ui,Trojan,Trojan panel三选一即可)
 
 ## 一.准备工作
 
