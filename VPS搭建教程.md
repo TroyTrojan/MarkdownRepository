@@ -1,4 +1,6 @@
-# 一键搭建代理面板教程(X-ui,Trojan,Trojan panel三选一即可)
+# 一键搭建代理面板教程(X-ui,Trojan,Trojan Panel三选一即可)
+
+# 一键搭建X-ui面板(最流行的个人面板)
 
 ## 一.准备工作
 
@@ -74,7 +76,7 @@ iptables -I INPUT -p tcp --dport 54321 -j ACCEPT
 
 在 X-ui面板设置中，“面板证书公钥文件路径”，不要用带自己域名的证书，输入` /root/cert/fullchain.cer` （这是标准的CA证书集的文件之一）的路径。然后重启面板。在创建的节点时候，公钥文件路径同样填入 ` /root/cert/fullchain.cer` 。
 
-# 一键搭建Trojan及Trojan-Go面板，保护IP并实现科学上网
+# 一键搭建Trojan及Trojan-Go面板(保护IP并实现科学上网)
 
 ## 一.准备工作
 
@@ -162,7 +164,7 @@ source <(curl -sL https://git.io/trojan-install) --remove
 
 ### 1.登陆面板，修改Trojan类型为Trojan-Go
 
-![image-20230414161547942](C:\Users\wy\AppData\Roaming\Typora\typora-user-images\image-20230414161547942.png)
+![image-20230414161547942](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230414161547942.png)
 
 ### 2.更改Trojan-Go配置文件
 
@@ -187,7 +189,7 @@ source <(curl -sL https://git.io/trojan-install) --remove
     }
 ```
 
-![image-20230414161502169](C:\Users\wy\AppData\Roaming\Typora\typora-user-images\image-20230414161502169.png)
+![image-20230414161502169](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230414161502169.png)
 
 1、/DFE4545DFDED/为路径，随意填写。 2、host后 填上你的域名
 
@@ -199,7 +201,7 @@ source <(curl -sL https://git.io/trojan-install) --remove
 
 [下载地址]: https://github.com/KEJIXIAOLU/Trojan/releases/tag/Trojan-Qt5
 
-![image-20230414161353303](C:\Users\wy\AppData\Roaming\Typora\typora-user-images\image-20230414161353303.png)
+![image-20230414161353303](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230414161353303.png)
 
 2.QV2RAY（支持WIN/MACOS）
 
@@ -207,7 +209,9 @@ QV2RAY 下载地址：https://github.com/Qv2ray/Qv2ray/releases/
 
 QV2RAY 内核下载地址：https://github.com/v2ray/v2ray-core/releases
 
-# 一键搭建Trojan panel面板(支持一键导入Clash链接)
+![image-20230416191914108](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230416191914108.png)
+
+# 一键搭建Trojan Panel面板(可以实现分布式部署)
 
 ## 一.准备工作
 
@@ -223,7 +227,7 @@ Windows版下载地址:
 
 [点此下载]: http://www.hostbuf.com/downloads/finalshell_install.exe
 
-## 二.搭建Trojan panel面板
+## 二.搭建Trojan Panel面板
 
 ### 1.开启系统自带的BBR加速
 

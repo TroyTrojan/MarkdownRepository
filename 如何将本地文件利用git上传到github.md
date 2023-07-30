@@ -4,7 +4,7 @@
 git init
 git add .
 git commit -m "提交信息"
-git remote add origin "GitHub仓库的SSH链接"
+git remote add origin git@github.com:username/name.git
 git branch -M main
 git push -u origin main
 ```

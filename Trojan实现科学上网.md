@@ -77,7 +77,7 @@ source <(curl -sL https://git.io/trojan-install) --remove
 
 ### 1.登陆面板，修改Trojan类型为Trojan-Go
 
-![image-20230414161547942](C:\Users\wy\AppData\Roaming\Typora\typora-user-images\image-20230414161547942.png)
+![image-20230414161547942](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230414161547942.png)
 
 ### 2.更改Trojan-Go配置文件
 
@@ -102,7 +102,7 @@ source <(curl -sL https://git.io/trojan-install) --remove
     }
 ```
 
-![image-20230414161502169](C:\Users\wy\AppData\Roaming\Typora\typora-user-images\image-20230414161502169.png)
+![image-20230414161502169](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230414161502169.png)
 
 1、/DFE4545DFDED/为路径，随意填写。 2、host后 填上你的域名
 
@@ -114,7 +114,7 @@ source <(curl -sL https://git.io/trojan-install) --remove
 
 [下载地址]: https://github.com/KEJIXIAOLU/Trojan/releases/tag/Trojan-Qt5
 
-![image-20230414161353303](C:\Users\wy\AppData\Roaming\Typora\typora-user-images\image-20230414161353303.png)
+![image-20230414161353303](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230414161353303.png)
 
 2.QV2RAY（支持WIN/MACOS）
 
@@ -122,4 +122,4 @@ QV2RAY 下载地址：https://github.com/Qv2ray/Qv2ray/releases/
 
 QV2RAY 内核下载地址：https://github.com/v2ray/v2ray-core/releases
 
-![image-20230416191914108](C:\Users\wy\AppData\Roaming\Typora\typora-user-images\image-20230416191914108.png)
+![image-20230416191914108](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/image-20230416191914108.png)
