@@ -16,7 +16,7 @@
     </div>
 ```
 
-<img src="D:\Typora\Typora图片\1679919411092.png" style="zoom:67%;" />
+![1679919411092](D:\Typora\Typora图片\1679919411092.png)
 
 ## 2.排版内联文本
 
@@ -35,7 +35,7 @@
         </div>
 ```
 
-<img src="D:\Typora\Typora图片\1679919512146.png" style="zoom:67%;" />
+![1679919512146](D:\Typora\Typora图片\1679919512146.png)
 
 ## 3.排版文字颜色
 
@@ -61,7 +61,7 @@ Bootstrap 给文本提供了一组样式类，可以让文本展现不同的情�
         </div>
 ```
 
-<img src="D:\Typora\Typora图片\1679919600727.png" style="zoom:67%;" />
+![1679919600727](https:/cdn.jsdelivr.net/gh/TroyTrojan/PictureBed@main//1679919600727.png)
 
 ## 4.文本排列对齐效果
 
@@ -80,7 +80,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-<img src="D:\Typora\Typora图片\1679919681326.png" style="zoom:67%;" />
+![1679919681326](https:/cdn.jsdelivr.net/gh/TroyTrojan/PictureBed@main//1679919681326.png)
 
 ## 5.预定义按钮
 
@@ -99,7 +99,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     <button type="button" class="btn btn-link">链接</button>
 ```
 
-<img src="D:\Typora\Typora图片\1679919778206.png" style="zoom:67%;" />
+![1679919778206](https:/cdn.jsdelivr.net/gh/TroyTrojan/PictureBed@main//1679919778206.png)
 
 ## 6.按钮边框
 
@@ -116,7 +116,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     <button type="button" class="btn btn-outline-dark">黑色</button>
 ```
 
-<img src="D:\Typora\Typora图片\1679919849165.png" style="zoom:67%;" />
+![1679919849165](https:/cdn.jsdelivr.net/gh/TroyTrojan/PictureBed@main//1679919849165.png)
 
 ## 7.块级按钮
 
@@ -128,7 +128,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-<img src="D:\Typora\Typora图片\1679919923151.png" style="zoom:67%;" />
+![1679919923151](https:/cdn.jsdelivr.net/gh/TroyTrojan/PictureBed@main//1679919923151.png)
 
 ## 8.缩略图组件
 
