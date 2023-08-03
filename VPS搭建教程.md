@@ -1,6 +1,6 @@
-# 一键搭建代理面板教程(X-ui,Trojan,Trojan Panel三选一即可)
+# 一键搭建代理面板教程(X-UI,Trojan,Trojan Panel三选一即可)
 
-# 一键搭建X-ui面板(最流行的个人面板)
+# 一键搭建X-UI面板(最流行的个人面板)
 
 ## 一.准备工作
 
