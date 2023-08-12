@@ -16,7 +16,7 @@
     </div>
 ```
 
-![1679919411092](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679919411092.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679919411092.png)
 
 ## 2.排版内联文本
 
@@ -35,7 +35,7 @@
         </div>
 ```
 
-![1679919512146](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679919512146.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679919512146.png)
 
 ## 3.排版文字颜色
 
@@ -61,7 +61,7 @@ Bootstrap 给文本提供了一组样式类，可以让文本展现不同的情�
         </div>
 ```
 
-![1679919600727](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679919600727.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679919600727.png)
 
 ## 4.文本排列对齐效果
 
@@ -80,7 +80,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-![1679919681326](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679919681326.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679919681326.png)
 
 ## 5.预定义按钮
 
@@ -99,7 +99,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     <button type="button" class="btn btn-link">链接</button>
 ```
 
-![1679919778206](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679919778206.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679919778206.png)
 
 ## 6.按钮边框
 
@@ -116,7 +116,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     <button type="button" class="btn btn-outline-dark">黑色</button>
 ```
 
-![1679919849165](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679919849165.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679919849165.png)
 
 ## 7.块级按钮
 
@@ -128,7 +128,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-![](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679919923151.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679919923151.png)
 
 ## 8.缩略图组件
 
@@ -174,7 +174,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-![1679920002845](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679920002845.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679920002845.png)
 
 ## 9.文本变换大小写
 
@@ -192,7 +192,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-![1679920089037](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679920089037.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679920089037.png)
 
 ## 10.内联列表
 
@@ -209,7 +209,7 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-![1679920220010](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679920220010.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679920220010.png)
 
 ## 11.水平描述列表
 
@@ -230,4 +230,4 @@ Bootstrap提供了.text-left、.text-right、.text-center、.text-justify、.tex
     </div>
 ```
 
-![1679920280563](https://raw.githubusercontent.com/TroyTrojan/PictureBed/main/1679920280563.png)
+![](https://cdn.jsdelivr.net/gh/TroyTrojan/PictureBed/1679920280563.png)
