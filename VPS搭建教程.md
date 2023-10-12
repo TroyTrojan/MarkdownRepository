@@ -333,7 +333,8 @@ iptables -L
 初次安装只需输入以下代码:
 
 ```
-wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh [option] [lisence]
+wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh [option] [lisence](已失效)
+wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh [option] [lisence/url/token]
 ```
 
 安装后只需选择为ipv4添加warp即可，一般为选项1.
